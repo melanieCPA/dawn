@@ -31,10 +31,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "accent-1",
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/Queens_Home_Decor-logos_black_4.png",
-          "logo_width": 90,
-          "logo_position": "top-left",
+          "logo_width": 60,
+          "logo_position": "top-center",
           "menu": "sidebar-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
